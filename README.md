@@ -9,7 +9,7 @@
 🤝 Seeking guidance on scalable systems & clean code <br>
 🌱 Learning APIs, databases & DevOps <br>
 💬 Ask me about Java, MERN & problem solving <br>
-⚡ Fun fact: I enjoy building from scratch & simplifying complex logic <br>
+⚡ Fun fact: I enjoy building from scratch & simplifying complex logic
 
 
 ## 🌐 Socials:
