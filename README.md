@@ -16,7 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on<br><br>* Building backend-focused projects like a typing practice platform (inspired by Monkeytype & Typeracer)<br>* Exploring servlet-based web applications and client-server systems<br>* Strengthening my Data Structures & Algorithms problem-solving<br><br>👯 I’m looking to collaborate on<br><br>* Backend development projects (Node.js / Java-based)<br>* Real-world full-stack applications with scalable APIs<br>* Open-source projects related to web development<br><br>🤝 I’m looking for help with<br><br>* Designing scalable backend architectures<br>* Writing clean, production-level backend code<br>* Improving problem-solving efficiency in DSA<br><br>🌱 I’m currently learning<br><br>* Backend development (Node.js, Express, APIs)<br>* Database design (MongoDB, PostgreSQL, Prisma)<br>* Computer Networks and system-level concepts<br>* Basics of DevOps and deployment<br><br>💬 Ask me about<br><br>* Java, Servlets, and backend fundamentals<br>* MERN stack basics and API development<br>* Data Structures & Algorithms preparation<br>* Computer Networks concepts<br><br>⚡ Fun fact<br><br>* I enjoy breaking down complex systems into simple logic and love building things from scratch 🚀<br>
+🔭 Working on backend projects & DSA 
+👯 Open to collaborating on backend & full-stack apps 
+🤝 Seeking guidance on scalable systems & clean code 
+🌱 Learning APIs, databases & DevOps 
+💬 Ask me about Java, MERN & problem solving 
+⚡ Fun fact: I enjoy building from scratch & simplifying complex logic
 
 
 ## 🌐 Socials:
