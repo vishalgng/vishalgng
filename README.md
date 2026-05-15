@@ -1,7 +1,4 @@
 ![Header](./github-header-banner.png)
-
-## Hi there 👋
-
 # 💫 About Me:
 
 * 🔭 Working on backend projects & DSA
