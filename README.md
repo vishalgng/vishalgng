@@ -24,7 +24,7 @@
 ```
 ---
 <div align="center">
-  <h2>🌐 Connect with Me:</h2>
+  <h2>📬 Reach Out & Connect:</h2>
   
   [![Email](https://img.shields.io/badge/Gmail-vshal00011%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vshal00011@gmail.com)
   [![Resume](https://img.shields.io/badge/Resume-View%20CV-2EA043?style=for-the-badge&logo=googledrive&logoColor=white)]()
@@ -45,6 +45,23 @@
     </tr>
   </table>
 </div>
+
+## 🌐 Connect with Me:
+
+<p align="center">
+  <a href="https://linkedin.com/in/vishal-singh-a02900244">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/_Vishal_Singh_">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  <a href="https://www.leetcode.com/vshal00011">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/vshal012e0">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+</p>
 
 ---
 
