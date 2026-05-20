@@ -26,7 +26,24 @@
 <div align="center">
   <h2>🌐 Connect with Me:</h2>
   
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:vshal00011@gmail.com)
+  [![Email](https://img.shields.io/badge/Gmail-vshal00011%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vshal00011@gmail.com)
+  [![Resume](https://img.shields.io/badge/Resume-View%20CV-2EA043?style=for-the-badge&logo=googledrive&logoColor=white)]()
+  
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Status-Available%20for%20Hire-40C057?style=flat-square&logo=googlecalendar&logoColor=white" alt="Status"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Location-India-0B3954?style=flat-square&logo=google-maps&logoColor=white" alt="Location"/>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Last%20Updated-2026--02--04-4C75A1?style=flat-square&logo=github&logoColor=white" alt="Updated"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
