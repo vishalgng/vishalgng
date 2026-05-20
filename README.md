@@ -45,11 +45,8 @@
     </tr>
   </table>
 </div>
-<div align="center">
 
 ## 🌐 Connect with Me
-
-</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/vishal-singh-a02900244">
@@ -70,8 +67,13 @@
 
 <div align="center">
   
-  # 💻 Tech Stack:
+  <div align="left">
+  
+  ## 💻 Tech Stack:  
     
+  </div>
+  
+  
   ### 🚀 Languages
   
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
