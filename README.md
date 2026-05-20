@@ -1,4 +1,14 @@
-![Header](./github-header-banner.png)
+<div align="center">
+  
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+## I'm Vishal — Backend Developer & Problem Solver
+
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--02--04-brightgreen)](https://github.com/vshal00011)
+[![Profile Views](https://komarev.com/ghpvc/?username=vishalgng&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/vishalgng)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/vishal-singh-a02900244)
+
+</div>
+
 ```yaml
  💫 About Me:
 
