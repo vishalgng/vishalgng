@@ -9,9 +9,12 @@
 
 </div>
 
+<div align="center">
+  
+## 🚀 About Me
+<div align="left">
+  
 ```yaml
- 💫 About Me:
-
 • 🔭 Working on backend projects & DSA
 • 👯 Open to collaborating on backend & full-stack apps
 • 🤝 Seeking guidance on scalable systems & clean code
