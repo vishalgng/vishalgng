@@ -45,8 +45,11 @@
     </tr>
   </table>
 </div>
+<div align="center">
 
-## 🌐 Connect with Me:
+## 🌐 Connect with Me
+
+</div>
 
 <p align="center">
   <a href="https://linkedin.com/in/vishal-singh-a02900244">
